@@ -18,7 +18,7 @@
 -------------------------------
 # **SPOILER**
 
-```c
+```c#
 using System;
 namespace Turmrechner
 {
